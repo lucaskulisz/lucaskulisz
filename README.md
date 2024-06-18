@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/](https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/)
 
-- ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/USERNAME/README)
+- ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/lucaskulisz/README)
 
 
 <h3 align="left">Connect with me:</h3>
