@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lucas Kulisz</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **an ERP for a Chilean company**
+- 🔭 I’m currently working on **Automatizations**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **ml,llm**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 🤝 I’m looking for help with **ml,blockchain**
+- 🤝 I’m looking for help with **ml,automatizations**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucaskulisz?tab=repositories](https://github.com/lucaskulisz?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/](https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/)
 
-- 💬 Ask me about **react,javascript, node**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **lucas.kulisz@gmail.com**
 
