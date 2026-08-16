@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/](https://www.linkedin.com/in/lucas-emmanuel-kulisz-bugarin-9454b593/)
 
-![Visitor Count](https://profile-counter.glitch.me/lucaskulisz/count.svg)
 
 
 
